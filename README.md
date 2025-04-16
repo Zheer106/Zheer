@@ -5,4 +5,4 @@
 **Skills**
 C# Developer
 .Net Core
-.Met FrameWork
+.Net FrameWork
